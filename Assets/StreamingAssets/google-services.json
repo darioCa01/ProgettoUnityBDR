@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185527140117",
+    "project_id": "modelli3ddb",
+    "storage_bucket": "modelli3ddb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185527140117:android:301a06218e38a06aa0731c",
+        "android_client_info": {
+          "package_name": "modelli.d.db"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBINkLurrpSUAClyQiiw3P6vkmNYSvIBFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

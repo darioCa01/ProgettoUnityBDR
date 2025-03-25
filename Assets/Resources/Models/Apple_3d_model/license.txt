@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apple 3d model
+* source:	https://sketchfab.com/3d-models/apple-3d-model-5b4f002498f343f2894319e63b0f8dd7
+* author:	Neelam Devi (https://sketchfab.com/neelamdevi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apple 3d model" (https://sketchfab.com/3d-models/apple-3d-model-5b4f002498f343f2894319e63b0f8dd7) by Neelam Devi (https://sketchfab.com/neelamdevi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
